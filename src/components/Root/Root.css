@@ -1,0 +1,18 @@
+.root-main{
+    display: flex;
+    gap: 20px;
+}
+nav a.active {
+    text-decoration: underline;
+}
+
+
+/**
+* 1. use: usersPromise > Suspense > Promise > use(usersPromise)
+* 2. [ less used so far] > useState + useEffect ( () =>{}, [])
+* 3. set loader in the route definition: load dada before router component is rendered
+*/
+
+
+
+
